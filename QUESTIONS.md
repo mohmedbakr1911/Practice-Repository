@@ -61,11 +61,11 @@ follow the convention from `CONTRIBUTING.md`?**
 
 **6. What caused the conflict? Which file and lines were involved?**
 
-> Your answer here.
+> the conflict happend because there is 2 changes at the same line from two different contributers line 12 file "contributers.md".
 
 **7. How did you resolve it — what did you keep, remove, or combine, and why?**
 
-> Your answer here.
+> i resolved it by accepting both changes i combined the two changes together and didn't remove any of them
 
 ---
 
