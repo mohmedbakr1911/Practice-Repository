@@ -49,7 +49,11 @@ is `origin` and which is `upstream`, and why does that distinction matter?**
 **5. Paste the output of `git log --oneline -3`. Do your commit message(s)
 follow the convention from `CONTRIBUTING.md`?**
 
-> Your answer here.
+> 92a64cc (HEAD -> feature/logs, origin/feature/logs) docs:answering questions ending with part3
+> db776db fix contributers task
+> 8df8f17 contributors task
+
+> only the last commit following the convention form.
 
 ---
 
