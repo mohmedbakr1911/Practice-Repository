@@ -14,17 +14,19 @@ revision.
 **1. What branch naming convention does this project use? Give an example
 branch name you plan to use.**
 
-> Your answer here.
+> this project use <type>:<short-description> pattern 
+> feature/logs 
 
 **2. What commit message format is required? Write the exact commit message
 you plan to use for your change.**
 
-> Your answer here.
+> <type>:<short-summary>
+> feature:adding logs manipulation
 
 **3. Does this project expect a linked issue before opening a PR, or is a PR
 description enough?**
 
-> Your answer here.
+> yes this project expect a linked issue
 
 ---
 
@@ -33,8 +35,13 @@ description enough?**
 **4. Paste the output of `git remote -v` from your local clone. Which remote
 is `origin` and which is `upstream`, and why does that distinction matter?**
 
-> Your answer here.
+> origin  https://github.com/mohmedbakr1911/Practice-Repository.git (fetch)
+> origin  https://github.com/mohmedbakr1911/Practice-Repository.git (push)
+> upstream        https://github.com/IbrahimYasserM/Practice-Repository.git (fetch)
+> upstream        https://github.com/IbrahimYasserM/Practice-Repository.git (push)
 
+> origin is my forked repo and upstream is the original repo 
+>this distinction matter because it help me as a contributor to keep updated with the original repo 
 ---
 
 ## Part 3 — After making your change
