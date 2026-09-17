@@ -74,7 +74,7 @@ follow the convention from `CONTRIBUTING.md`?**
 **8. Paste your PR link. How many commits and how many files changed does
 your PR show?**
 
-> Your answer here.
+> https://github.com/IbrahimYasserM/Practice-Repository/compare/main...mohmedbakr1911:Practice-Repository:feature/logs?expand=1
 
 ---
 
@@ -83,10 +83,16 @@ your PR show?**
 **9. What's one thing about this workflow that surprised you, confused you,
 or felt different from what you expected going in?**
 
-> Your answer here.
+> the flow is not that complix as i imagened but what confused me was the clear understanding of what i supposed to to do 
 
 **10. If a teammate asked you to explain the difference between `fork`,
 `clone`, `origin`, and `upstream` in one or two sentences each, what would
 you say?**
 
-> Your answer here.
+> fork -> the fork is a copy of a repo at a specific moment abling you to clone it at your local machine and start contributing 
+
+> clone -> downloading the project at our local machine 
+
+> origin -> the original repo (our forked repository)
+
+> upstream -> a variable for the remote repo set as the base repo
