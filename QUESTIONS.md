@@ -76,6 +76,8 @@ your PR show?**
 
 > https://github.com/IbrahimYasserM/Practice-Repository/compare/main...mohmedbakr1911:Practice-Repository:feature/logs?expand=1
 
+> 2 changed files and 6 commits
+
 ---
 
 ## Part 6 — Final reflection
